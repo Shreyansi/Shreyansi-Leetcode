@@ -38,9 +38,9 @@ public class MinStack {
 		MinStack obj = new MinStack();
 		 obj.push(2);
 		 obj.push(1);
-		 obj.push(3);
-		 obj.push(4);
 		 obj.push(8);
+		 obj.push(4);
+		 obj.push(5);
 		 //int param_2 = obj.pop();
 		 //System.out.println("Element popped from stack "+param_2);
 		 int param_3 = obj.top();
